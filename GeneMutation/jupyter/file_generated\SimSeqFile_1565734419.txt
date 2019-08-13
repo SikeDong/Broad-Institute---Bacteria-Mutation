@@ -1,0 +1,4 @@
+1 time(s) mutation: TTG 23,31,33,
+2 time(s) mutation: TGGTATTC 1,11,15,17,18,23,24,31,
+3 time(s) mutation: GCCT 11,23,24,37,
+4 time(s) mutation: C 31,
