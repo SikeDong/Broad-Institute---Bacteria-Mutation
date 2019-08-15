@@ -1,0 +1,4 @@
+1 time(s) mutation: ACC 18,22,24,
+2 time(s) mutation: AC 2,24,
+3 time(s) mutation: TCTA 1,13,31,35,
+4 time(s) mutation: AGC 2,35,37,
