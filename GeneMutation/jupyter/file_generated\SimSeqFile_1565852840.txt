@@ -1,0 +1,4 @@
+1 time(s) mutation: GCGC 2,24,25,37,
+2 time(s) mutation: TTC 1,13,24,
+3 time(s) mutation: TATGT 1,2,13,25,31,
+4 time(s) mutation: ATTAC 2,24,31,35,39,
