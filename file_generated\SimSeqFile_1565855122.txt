@@ -1,4 +1,0 @@
-1 time(s) mutation: CG 1,7,
-2 time(s) mutation: GTGCG 11,17,21,22,35,
-3 time(s) mutation: CAGAA 1,7,15,18,21,
-4 time(s) mutation:  
